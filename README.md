@@ -24,7 +24,7 @@
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="right" alt="Bruno-Pixel" src="https://im6.ezgif.com/tmp/ezgif-6-946043baa2e8.gif">
+  <img align="right" alt="Bruno-Pixel" src="https://i0.wp.com/www.toppapeldeparede.com.br/wp-content/uploads/2021/03/Pigeon-the-Space-Commander.gif?ssl=1">
 </div>
   
   
