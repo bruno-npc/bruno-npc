@@ -1,6 +1,5 @@
 ## Olá! Eu sou o "Bruno-npc"
 - 🎓 Estudante do curso de Computação da UPE - Campus Garanhuns
-- 👨🏻‍💻 Atualmente estou estudando: CSharp (C#) - Aplicado a Unity
 - 
 - 📫 Emails para contado: 
 - 👨🏻‍🎓 (Institucional)  bruno.ssilva5@upe.br
