@@ -25,7 +25,7 @@
   <img alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img alt="Bruno-JS" src="https://www.svgrepo.com/show/355081/js.svg">
-  <img alt="Bruno-React" src="https://www.svgrepo.com/show/354259/react.svg">
+  <img alt="Bruno-React" src="https://icongr.am/devicon/react-original-wordmark.svg">
 
   <img alt="Bruno-Pixel" src="https://i0.wp.com/www.toppapeldeparede.com.br/wp-content/uploads/2021/03/Pigeon-the-Space-Commander.gif?ssl=1">
   <img alt="Bruno-Pixel" src="https://i0.wp.com/www.toppapeldeparede.com.br/wp-content/uploads/2021/03/Pigeon-the-Space-Commander.gif?ssl=1">
