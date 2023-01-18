@@ -17,17 +17,17 @@
 <div style="display: inline_block"><br>
   <img alt="Bruno-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <img alt="Bruno-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img alt="Bruno-Unreal" src="https://www.svgrepo.com/show/394536/unreal-engine.svg">
+  <img alt="Bruno-Unreal" height="30" width="40" src="https://www.svgrepo.com/show/394536/unreal-engine.svg">
   <img alt="Bruno-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
   <img alt="Bruno-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
   <img alt="Bruno-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg">
   <img alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Bruno-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img alt="Bruno-JS" src="https://www.svgrepo.com/show/355081/js.svg">
-  <img alt="Bruno-React" src="https://icongr.am/devicon/react-original-wordmark.svg">
+  <img alt="Bruno-JS" height="30" width="40" src="https://www.svgrepo.com/show/355081/js.svg">
+  <img alt="Bruno-React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg">
 
-  <img alt="Bruno-Pixel" src="https://i0.wp.com/www.toppapeldeparede.com.br/wp-content/uploads/2021/03/Pigeon-the-Space-Commander.gif?ssl=1">
+  <img alt="Bruno-Pixel" height="30" width="40" src="https://i0.wp.com/www.toppapeldeparede.com.br/wp-content/uploads/2021/03/Pigeon-the-Space-Commander.gif?ssl=1">
 
 </div>
   
