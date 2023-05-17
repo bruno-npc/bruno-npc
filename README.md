@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bruno.
 - 🎓 Estudante do curso de Computação da UPE - Campus Garanhuns
-- 👨‍💻 Desenvolvedor Junior - Back end - Comeia
+- 👨‍💻 Atuando como desenvolvedor - Back end - java
 - 
 - 📫 Emails para contado: 
 - 👨🏻‍🎓 (Institucional)  bruno.ssilva5@upe.br
