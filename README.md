@@ -5,6 +5,8 @@
 - 📫 Emails para contado: 
 - 👨🏻‍🎓 (Institucional)  bruno.ssilva5@upe.br
 - 🙆🏻‍♂️ (Pessoal)  brunosznorth@gmail.com
+
+- 🌎 Linkedin: https://www.linkedin.com/in/bruno-npc/
 - 📚 Portfolio: https://bruno-npc.github.io/
 
  <div>
