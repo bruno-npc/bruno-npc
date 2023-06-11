@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Bruno.
 - 🎓 Estudante do curso de Computação da UPE - Campus Garanhuns
-- 👨‍💻 Atuando como desenvolvedor - Back end - java
+- 👨‍💻 Desenvolvedor - Full Stack - Spring boot / React
 - 
 - 📫 Emails para contado: 
 - 👨🏻‍🎓 (Institucional)  bruno.ssilva5@upe.br
