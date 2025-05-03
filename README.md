@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Bruno.
 - 🎓 Estudante do curso de Computação da UPE - Campus Garanhuns
 - 👨‍💻 Desenvolvedor - Full Stack - Spring boot / React
-- 
+  
 - 📫 Email para contado: 
 - 🙆🏻‍♂️ brunosznorth@gmail.com
 
@@ -13,6 +13,7 @@
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bruno-npc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bruno-npc&layout=compact&langs_count=7&theme=dark"/>
 </div>
+   
 ##
   
 <div style="display: inline_block"><br>
@@ -20,6 +21,13 @@
   <img alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Bruno-JS" height="30" width="40" src="https://www.svgrepo.com/show/355081/js.svg">
   <img alt="Bruno-React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg">
+  <img alt="Bruno-Java" height="30" width="40" src="https://www.svgrepo.com/show/452234/java.svg">
+  <img alt="Bruno-Spring" height="30" width="40" src="https://www.svgrepo.com/show/354379/spring.svg">
+  <img alt="Bruno-Docker" height="30" width="40" src="https://www.svgrepo.com/show/353661/docker.svg">
+  <img alt="Bruno-Angular" height="30" width="40" src="https://www.svgrepo.com/show/353398/angular.svg">
+  <img alt="Bruno-Mongo" height="30" width="40" src="https://www.svgrepo.com/show/354090/mongodb.svg">
+  <img alt="Bruno-Mysql" height="30" width="40" src="https://www.svgrepo.com/show/473731/mysql.svg">
+  <img alt="Bruno-Postgresql" height="30" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg">
 </div>
   
   
