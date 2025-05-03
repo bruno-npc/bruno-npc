@@ -22,11 +22,11 @@
   <img alt="Bruno-JS" height="30" width="40" src="https://www.svgrepo.com/show/355081/js.svg">
   <img alt="Bruno-React" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg">
   <img alt="Bruno-Java" height="30" width="40" src="https://www.svgrepo.com/show/452234/java.svg">
-  <img alt="Bruno-Spring" height="30" width="40" src="https://www.svgrepo.com/show/354379/spring.svg">
-  <img alt="Bruno-Docker" height="30" width="40" src="https://www.svgrepo.com/show/353661/docker.svg">
-  <img alt="Bruno-Angular" height="30" width="40" src="https://www.svgrepo.com/show/353398/angular.svg">
-  <img alt="Bruno-Mongo" height="30" width="40" src="https://www.svgrepo.com/show/354090/mongodb.svg">
-  <img alt="Bruno-Mysql" height="30" width="40" src="https://www.svgrepo.com/show/473731/mysql.svg">
+  <img alt="Bruno-Spring" height="30" width="40" src="https://www.svgrepo.com/show/376350/spring.svg">
+  <img alt="Bruno-Docker" height="30" width="40" src="https://www.svgrepo.com/show/452192/docker.svg">
+  <img alt="Bruno-Angular" height="30" width="40" src="https://www.svgrepo.com/show/353396/angular-icon.svg">
+  <img alt="Bruno-Mongo" height="30" width="40" src="https://www.svgrepo.com/show/331488/mongodb.svg">
+  <img alt="Bruno-Mysql" height="30" width="40" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
   <img alt="Bruno-Postgresql" height="30" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg">
 </div>
   
